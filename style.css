@@ -24,5 +24,6 @@ a{
 }
 
 .video{
+    width: auto;
     text-align: center;
 }
