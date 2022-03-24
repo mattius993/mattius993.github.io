@@ -29,6 +29,6 @@ a{
     text-align: center;
 }
 .secondo{
-    width: fit-content;
-    text-align: start;
+    width: auto 50%;
+    text-align: center;
 }
