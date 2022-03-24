@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    background-color: #2b2727;
+    color: white;
+}
+
+.title{
+    text-align: center;
+}
+
+a{
+    color: coral;
+}
+
+.attrici{
+    padding-top: 20px;
+    padding-left: 30px;
+    width: fit-content;
+    text-align: center;
+}
+.misslexa{
+    height: 250px;
+    width: 200px;
+}
