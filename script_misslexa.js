@@ -14,11 +14,3 @@ function changeVideo2(){
     document.getElementById("cambio").onclick = changeVideo1;
     document.getElementById("cambio").innerHTML="Primo video";
 }
-
-function submitVote(){
-    var vote = document.getElementById("selected").value;
-    document.getElementById("result").innerHTML="Voted";
-    var fs = require('fs');
-    
-
-}
