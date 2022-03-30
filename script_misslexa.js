@@ -2,7 +2,6 @@ window.onload=load;
 
 function load(){
     document.getElementById("cambio").onclick = changeVideo2;
-    document.getElementById("vote").onclick = submitVote;
 }
 function changeVideo1(){
     document.getElementById("video").src = "https://mega.nz/embed/blwyzCZa#28yGESBKG37yW8dx-CsgJfKTleIYcZ1ToTred0_20og";
