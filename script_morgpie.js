@@ -5,12 +5,12 @@ function load(){
     document.getElementById("vote").onclick = submitVote;
 }
 function changeVideo1(){
-    document.getElementById("video").src = "https://mega.nz/embed/blwyzCZa#28yGESBKG37yW8dx-CsgJfKTleIYcZ1ToTred0_20og";
+    document.getElementById("video").src = "https://dood.so/e/j9opw62dzkxr";
     document.getElementById("cambio").onclick = changeVideo2;
     document.getElementById("cambio").innerHTML="Secondo video";
 }
 function changeVideo2(){
-    document.getElementById("video").src = "https://mega.nz/embed/Pt4VkTjC#PCADAXYBilm8y4DTlLLsOgTs50AdW8AUOjCA34eOOq4";
+    document.getElementById("video").src = "https://dood.so/e/1v5i7coot67l";
     document.getElementById("cambio").onclick = changeVideo1;
     document.getElementById("cambio").innerHTML="Primo video";
 }
